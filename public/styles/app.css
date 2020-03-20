@@ -1,0 +1,34 @@
+form {
+    margin: 40px 0;
+  }
+  
+  .done {
+    margin-top: 100px;
+  }
+  
+  .handleTodo {
+    display: inline;
+  }
+
+body{
+  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url(../img/bgimage.jpg);
+  background-attachment: fixed;
+}  
+
+.tit{
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-family: cursive;
+  color: white;
+}
+.done{
+  margin-top: 100px;
+}
+
+
+.subtit{
+  font-weight: bolder;
+  font-family: cursive;
+  color: white;
+}
